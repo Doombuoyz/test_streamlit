@@ -2,7 +2,7 @@ import streamlit as st
 
 import sys
 import os
-ajdsfhn;sfkls
+
 # Add the parent directory to Python path to enable imports
 current_dir = os.path.dirname(os.path.abspath(__file__))
 parent_dir = os.path.dirname(current_dir)
